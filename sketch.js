@@ -446,4 +446,4 @@ if (score >= vorigeScoreCheckpoint + 100) {
 
     
   }
-}
+} aqfajsnfjn
