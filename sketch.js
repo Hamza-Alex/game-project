@@ -5,11 +5,7 @@
    Begin met dit template voor je game opdracht,
    voeg er je eigen code aan toe.
  */
-asfwaawfsadz
 
-dsadsadsad
-asfwaawfsadza
-satisfiesdsa
 dsadsaddadadsa
 /*
  * instellingen om foutcontrole van je code beter te maken 
@@ -451,7 +447,4 @@ if (score >= vorigeScoreCheckpoint + 100) {
 
     
   }
-} aqfajsnfjn
-
-
-dsadsaddadadsa
+} 
