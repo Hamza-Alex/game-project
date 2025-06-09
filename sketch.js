@@ -5,12 +5,6 @@
    Begin met dit template voor je game opdracht,
    voeg er je eigen code aan toe.
  */
-asfwaawfsadz
-
-dsadsadsad
-asfwaawfsadza
-satisfiesdsa
-dsadsaddadadsa
 /*
  * instellingen om foutcontrole van je code beter te maken 
  */
@@ -38,7 +32,7 @@ var spelerX = 600; // x-positie van speler
 var spelerY = 600; // y-positie van speler
 var health = 100;  // health van speler
 
- var spelerSnelheid = 20;
+var spelerSnelheid = 10;
 var vorigeScoreCheckpoint = 0;
 
 var uitlegAlGetoond = false;
